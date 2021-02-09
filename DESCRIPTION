@@ -1,6 +1,6 @@
 Package: alternativeSplicingEvents.hg38
 Title: Alternative splicing event annotation for Human (hg38)
-Version: 1.0.1
+Version: 1.1.0
 Encoding: UTF-8
 Author: Nuno Agostinho
 Maintainer: Nuno Agostinho <nunodanielagostinho@gmail.com>
